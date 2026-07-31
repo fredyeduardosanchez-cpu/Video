@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="1000" height="420" font-family="Arial, sans-serif">
+<rect x="0" y="0" width="1000" height="420" fill="#ffffff" stroke="#cccccc"/>
+<text x="500.0" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">Wireframe — 03. Beneficios (3 a 5 columnas)</text><rect x="300" y="50" width="400" height="60" fill="#f0f0f0" stroke="#999"/>
+<text x="500.0" y="80.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">Encabezado de sección</text><rect x="20" y="140" width="179.2" height="220" fill="#f2f2f2" stroke="#999" stroke-dasharray="6,4"/>
+<text x="109.6" y="250.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">Ícono
+Beneficio 1</text><rect x="215.2" y="140" width="179.2" height="220" fill="#f2f2f2" stroke="#999" stroke-dasharray="6,4"/>
+<text x="304.79999999999995" y="250.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">Ícono
+Beneficio 2</text><rect x="410.4" y="140" width="179.2" height="220" fill="#f2f2f2" stroke="#999" stroke-dasharray="6,4"/>
+<text x="500.0" y="250.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">Ícono
+Beneficio 3</text><rect x="605.5999999999999" y="140" width="179.2" height="220" fill="#f2f2f2" stroke="#999" stroke-dasharray="6,4"/>
+<text x="695.1999999999999" y="250.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">Ícono
+Beneficio 4</text><rect x="800.8" y="140" width="179.2" height="220" fill="#f2f2f2" stroke="#999" stroke-dasharray="6,4"/>
+<text x="890.4" y="250.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">Ícono
+Beneficio 5</text>
+</svg>

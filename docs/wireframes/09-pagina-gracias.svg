@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="1000" height="640" font-family="Arial, sans-serif">
+<rect x="0" y="0" width="1000" height="640" fill="#ffffff" stroke="#cccccc"/>
+<text x="500.0" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">Wireframe — 09. Página de Gracias</text><rect x="400" y="50" width="200" height="90" fill="#ececec" stroke="#999" stroke-dasharray="6,4"/>
+<text x="500.0" y="95.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">Ícono de éxito</text><rect x="370" y="160" width="260" height="20" fill="#d9d9d9"/><rect x="250" y="190" width="500" height="50" fill="#e0e0e0" stroke="#999"/>
+<text x="500.0" y="215.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">H1 — ¡Tu recurso ya está en camino!</text><rect x="300" y="250" width="400" height="40" fill="#d9d9d9"/><rect x="20" y="340" width="179.2" height="140" fill="#f2f2f2" stroke="#999" stroke-dasharray="6,4"/>
+<text x="109.6" y="410.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">IG</text><rect x="215.2" y="340" width="179.2" height="140" fill="#f2f2f2" stroke="#999" stroke-dasharray="6,4"/>
+<text x="304.79999999999995" y="410.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">FB</text><rect x="410.4" y="340" width="179.2" height="140" fill="#f2f2f2" stroke="#999" stroke-dasharray="6,4"/>
+<text x="500.0" y="410.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">TikTok</text><rect x="605.5999999999999" y="340" width="179.2" height="140" fill="#f2f2f2" stroke="#999" stroke-dasharray="6,4"/>
+<text x="695.1999999999999" y="410.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">LinkedIn</text><rect x="800.8" y="340" width="179.2" height="140" fill="#f2f2f2" stroke="#999" stroke-dasharray="6,4"/>
+<text x="890.4" y="410.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">YouTube</text><rect x="300" y="520" width="400" height="60" fill="#e6e6e6" stroke="#999"/>
+<text x="500.0" y="550.0" text-anchor="middle" dominant-baseline="middle" fill="#555" font-size="13">CTA secundario (oferta / siguiente paso)</text>
+</svg>
