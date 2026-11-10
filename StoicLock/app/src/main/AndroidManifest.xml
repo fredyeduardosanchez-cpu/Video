@@ -24,6 +24,26 @@
             </intent-filter>
         </activity>
 
+        <receiver
+            android:name=".lockscreen.NextQuoteReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.stoiclock.action.NEXT_QUOTE" />
+            </intent-filter>
+        </receiver>
+
+        <receiver
+            android:name=".widget.StoicWidgetReceiver"
+            android:exported="true"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/stoic_widget_info" />
+        </receiver>
+
         <!-- WorkManager se inicializa bajo demanda con HiltWorkerFactory (Configuration.Provider). -->
         <provider
             android:name="androidx.startup.InitializationProvider"

@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">StoicLock</string>
+    <string name="notification_channel_name">Frase en pantalla de bloqueo</string>
+    <string name="notification_channel_description">Muestra la frase estoica actual en la pantalla de bloqueo, sin sonido.</string>
+    <string name="action_next_quote">Otra frase</string>
+    <string name="widget_description">Frase estoica actual. Tócala para cambiarla.</string>
+    <string name="widget_loading">Cargando frase…</string>
 </resources>
